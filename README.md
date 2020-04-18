@@ -1,2 +1,0 @@
-# ReactToDoApp
-Created with CodeSandbox
